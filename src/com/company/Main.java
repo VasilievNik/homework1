@@ -50,5 +50,6 @@ public class Main {
         System.out.format("Маша теперь получает %f рублей. Годовой доход вырос на %f рублей.\n", Masha+Masha10, Masha10*12);
         System.out.format("Денис теперь получает %f рублей. Годовой доход вырос на %f рублей.\n", Denis+Denis10, Denis10*12);
         System.out.format("Кристина теперь получает %f рублей. Годовой доход вырос на %f рублей.\n", Cris+Cris10, Cris10*12);
+        //done
     }
 }
